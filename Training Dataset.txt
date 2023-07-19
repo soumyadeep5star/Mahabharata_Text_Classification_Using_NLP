@@ -1,0 +1,3 @@
+Bengali Training Dataset:- https://www.kaggle.com/datasets/furcifer/bangla-newspaper-dataset
+
+Hindi Training Dataset:- https://www.kaggle.com/datasets/soumyadeepadhikary/binku1
